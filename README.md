@@ -3,6 +3,8 @@
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/83f455d8-3462-4553-b2d1-e83c573a5c05" />  
 
+<img width="2549" height="1078" alt="image" src="https://github.com/user-attachments/assets/62df4ca2-3eb6-463e-a40a-1771986c6566" />        
+
 ```
 Se propone una solución completa, estructurada y funcional utilizando:
 
